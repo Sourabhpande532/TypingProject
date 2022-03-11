@@ -1,4 +1,4 @@
-alert("first of all click on Start button ⬇ ");
+alert("First of All Click on Start 👇 and after complete your typing Then click Done!! ");
 const setOfWords = [
     "This is saurabh and you are the most welcome to come to my typing project.",
     "If you want to live a happy life, tie it to a goal, not to people or things",
